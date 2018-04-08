@@ -1,3 +1,9 @@
+A sample consuming application for the [User Identity](https://github.com/camuthig/event-machine-user-identity) skeleton built
+on the [prooph Event Machine](https://github.com/proophsoftware/event-machine) RAD framework.
+
+Get started by copying the environment file `cp .env.example .env.local` and setting the `REACT_APP_GOOGLE_CLIENT_ID`
+variable. Then just, `yarn start` to begin testing.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
